@@ -7,7 +7,6 @@
 .bg-main-image {
     background: url('../assets/projectsbanner.jpg');
     background-attachment: scroll;
-    background-color: rgba(17, 25, 40, 0.56);
 }
 
 .card-img-top {
