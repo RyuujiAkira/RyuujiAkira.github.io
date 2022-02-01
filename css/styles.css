@@ -1,7 +1,10 @@
-.hero-banner {
-    background: url('../assets/homebanner.jpg') center;
+.bg-glass {
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(17, 25, 40, 0.75);
 }
 
-.projects-banner {
-    background: url('../assets/homebanner.jpg') center;
+.bg-main-image {
+    background: url('../assets/projectsbanner.jpg');
+    background-attachment: scroll;
 }
